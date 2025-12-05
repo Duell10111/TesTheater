@@ -64,6 +64,16 @@ export const data : LinkData[] = [
         iconName: "wow.svg",
         url: "https://www.wowtv.de/"
     },{
+        id: "joyn",
+        name: "Joyn",
+        iconName: "joyn.svg",
+        url: "https://www.joyn.de/"
+    },{
+        id: "rtlplus",
+        name: "RTL+",
+        iconName: "rtlplus.svg",
+        url: "https://plus.rtl.de/"
+    },{
         id: "appletv",
         name: "Apple TV",
         iconName: "appletvplus.png",
