@@ -19,13 +19,13 @@ export default function Footer() {
                         <h6 className='text-uppercase fw-bold mb-4'>Contact</h6>
                         <Link href={"https://github.com/Duell10111/TesTheater"}>
                             <p>
-                                <MDBIcon icon="github" className='me-2'/>
+                                <MDBIcon fab icon="github" className='me-2'/>
                                 Github
                             </p>
                         </Link>
                         <Link href={"https://github.com/Duell10111/TesTheater/issues/new/choose"} style={{ textDecoration: 'none' }}>
                             <p>
-                                <MDBIcon icon="github" className='me-2'/>
+                                <MDBIcon fab icon="github" className='me-2'/>
                                 Report an issue/feature request
                             </p>
                         </Link>
